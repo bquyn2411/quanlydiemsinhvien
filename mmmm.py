@@ -90,3 +90,4 @@ st.markdown(
     "Người tạo ứng dụng: Nguyễn Bảo Quyên - MSSV: 001308001583"
     "</p>", 
     unsafe_allow_html=True
+)
